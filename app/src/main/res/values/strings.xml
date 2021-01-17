@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WHOAT App</string>
+    <string name="toolbar_title">Latest Situation Reports</string>
+    <string name="swipe_right_to_continue">Swipe right to continue</string>
+    <string name="confirmed_cases">Confirmed Cases</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="situation_in_numbers_title">UK\'s Situation in Numbers</string>
+</resources>

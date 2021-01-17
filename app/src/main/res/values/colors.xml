@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">@color/secondary</color>
+    <color name="toolbar_title">@color/primary</color>
+    <color name="indicator">@color/tertiary</color>
+
+    <color name="text_header">@color/primary</color>
+    <color name="text_body">@color/secondary</color>
+
+</resources>
