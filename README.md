@@ -47,7 +47,7 @@ This dependency allows to use the new Material Design components for much better
     implementation "com.google.android.material:material:1.2.1"
 
 ## OkHttp Logging Interceptor
-This is used for logging the information about the request and responses from web services calls
+This is used for logging the information about the request and responses from web services calls.
 
     implementation 'com.squareup.okhttp3:logging-interceptor:4.2.1'
 
