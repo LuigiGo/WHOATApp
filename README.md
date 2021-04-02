@@ -72,3 +72,5 @@ It is used to implement assertions for every test function created. It can work 
 
     testImplementation "com.google.truth:truth:1.1"
     testImplementation 'android.arch.core:core-testing:2.1.0'
+    
+Janina Almozara
