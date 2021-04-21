@@ -18,9 +18,9 @@ out/
 # release/
 
 # Gradle files
+
 .gradle/
-.gradle/6.5
-build/
+.build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -39,13 +39,7 @@ captures/
 
 # IntelliJ
 *.iml
-.idea
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/assetWizardSettings.xml
-.idea/dictionaries
-.idea/libraries
+.idea/
 # Android Studio 3 in .gitignore file.
 .idea/caches
 .idea/modules.xml
@@ -88,3 +82,5 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+/.gradle/
+/.gradle/
