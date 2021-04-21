@@ -9,7 +9,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
 import com.androidsystems.whoatapp.R
-import com.androidsystems.whoatapp.data.entity.Feature
+import com.androidsystems.whoatapp.data.entity.reports.Feature
 import com.androidsystems.whoatapp.ui.base.HeaderFooterViewHolder
 import com.androidsystems.whoatapp.utilities.helpers.Conversions
 import com.bumptech.glide.Glide
