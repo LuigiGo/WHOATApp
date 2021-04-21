@@ -1,4 +1,4 @@
-package com.androidsystems.whoatapp.data.entity
+package com.androidsystems.whoatapp.data.entity.reports
 
 
 import com.google.gson.annotations.SerializedName

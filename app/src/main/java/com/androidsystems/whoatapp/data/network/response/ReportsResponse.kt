@@ -1,9 +1,9 @@
 package com.androidsystems.whoatapp.data.network.response
 
-import com.androidsystems.whoatapp.data.entity.Feature
-import com.androidsystems.whoatapp.data.entity.Field
-import com.androidsystems.whoatapp.data.entity.SpatialReference
-import com.androidsystems.whoatapp.data.entity.UniqueIdField
+import com.androidsystems.whoatapp.data.entity.reports.Feature
+import com.androidsystems.whoatapp.data.entity.reports.Field
+import com.androidsystems.whoatapp.data.entity.reports.SpatialReference
+import com.androidsystems.whoatapp.data.entity.reports.UniqueIdField
 
 data class ReportsResponse(
     val exceededTransferLimit: Boolean,

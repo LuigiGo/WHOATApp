@@ -17,8 +17,11 @@ class WhoatRepositoryImpl(private val dataSource: ReportsDataSource) : WhoatRepo
         }
     }
 
-    override suspend fun getReports(location: String): LiveData<ReportsResponse> {
+    override suspend fun loadReports(location: String) {
         dataSource.fetchReport(location)
+    }
+
+    override suspend fun onReportsLoaded(): LiveData<ReportsResponse> {
         return withContext(Dispatchers.IO) {
             return@withContext _downloadedReports
         }
