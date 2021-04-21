@@ -5,4 +5,6 @@
     <string name="confirmed_cases">Confirmed Cases</string>
     <string name="total_deaths">Total Deaths</string>
     <string name="situation_in_numbers_title">UK\'s Situation in Numbers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
